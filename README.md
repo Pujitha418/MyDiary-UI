@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is the UI repository for My-Diary Application.
+Link to Backend repo: [https://github.com/Pujitha418/MyDiary] (https://github.com/Pujitha418/MyDiary)
+
 ## Available Scripts
 
 In the project directory, you can run:
