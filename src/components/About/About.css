@@ -1,0 +1,12 @@
+.about {
+  background-image: url("../../images/home.jpg");
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 20 20 10 10;
+  color: white;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  position: relative;
+
+}

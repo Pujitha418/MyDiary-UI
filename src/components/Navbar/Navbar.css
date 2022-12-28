@@ -1,0 +1,35 @@
+.navbar-main {
+  background-color: rgb(107, 180, 180);
+  height: 3em;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.navbar-common {
+  display: flex;
+  position: relative;
+  float: left;
+}
+
+.navbar-inner {
+  padding-left: 2em;
+  padding-right: 2em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  padding-top: 0.7em;
+}
+
+.navbar-user, .navbar-no-user {
+  display: flex;
+  float: right;
+  position: relative;
+  padding-top: 0rem;
+  overflow: hidden;
+  color: white;
+}
+
+
+.navbar-link {
+  text-decoration:none;
+  color: white;
+}

@@ -1,0 +1,47 @@
+.settings {
+  position: relative;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  gap: 20px;
+  background-color:mintcream;
+  height: 100vh;
+}
+
+.button-54 {
+  font-family: inherit;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
+  cursor: pointer;
+  border: 3px solid;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 20%;
+  float: right;
+  margin-left: 55vw;
+}
+
+.prefs {
+  text-align:left;
+  margin-left: 2em;
+  margin-top: 2em;
+}
+
+.user-profile-pic {
+  margin-left: 2em;
+  width: 280px;
+  height: 250px;
+}
+
+.user-profile-button-54 {
+  margin-left: 2em;
+  width: 10em;
+}
+

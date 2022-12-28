@@ -1,0 +1,9 @@
+.profile-img-upload {
+  position: relative;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-top: 0.5rem;
+  gap: 20px;
+  background-color:mintcream;
+  height: 100vh;
+  width: 100%;
+}
